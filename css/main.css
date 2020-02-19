@@ -92,17 +92,17 @@ footer {
   }
 
   #column-1 {
-    width: 33.33;
+    width: 33.33%;
     background-color: #cc0099;
   }
 
   #column-2 {
-    width: 33.33;
+    width: 33.33%;
     background-color: #6600cc;
   }
 
   #column-3 {
-    width: 33.33;
+    width: 33.33%;
     background-color: #00cccc;
   }
 
